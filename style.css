@@ -13,14 +13,6 @@ body {
     overflow: hidden;
 }
 
-/*img{
-
-    width: 150%;
-    aspect-ratio: 3/2;
-    object-fit: contain;
-    mix-blend-mode: color-burn;
-}*/
-
 .Box{
     position: relative;
     width: 200px;
